@@ -20,4 +20,4 @@ You may also see any lint errors in the console.
 
 ## Learn More about HTML Drag and Drop API
 
-You can learn more in the [Developer mozila ](https://developer.mozilla.org/).
+You can learn more in the [Developer mozila ](https://developer.mozilla.org/ru/docs/Web/API/HTML_Drag_and_Drop_API).
