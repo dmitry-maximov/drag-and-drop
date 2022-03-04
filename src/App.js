@@ -113,7 +113,7 @@ function App() {
               onDragOver={(e) => onDragOverHandler(e)}
               onDragLeave={(e) => onDragLeaveHandler(e)}
               onDragStart={(e) => onDragStartHandler(e, board, item)}
-              onDragEnd={(e) => onDragEndHandler}
+              onDragEnd={(e) => onDragEndHandler(e)}
               onDrop={(e) => onDropHandler(e, board)}
             >
               {item.title}
